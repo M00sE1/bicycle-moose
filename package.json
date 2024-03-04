@@ -1,6 +1,6 @@
 {
   "name": "bicycle-moose",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Vue.js project",
   "author": "moose",
   "scripts": {
@@ -25,7 +25,8 @@
     "vue-amap": "^0.5.10",
     "vue-baidu-map": "^0.21.22",
     "vue-router": "^3.1.2",
-    "sp-printer": "^1.1.0"
+    "sp-printer": "^1.1.0",
+    "printer-moose": "^1.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
