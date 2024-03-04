@@ -1,6 +1,6 @@
 {
   "name": "bicycle-moose",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue.js project",
   "author": "moose",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/M00sE1/bicycle-moose.git"
+    "url": "https://github.com/M00sE1/bicycle-moose.git"
   },
   "dependencies": {
     "axios": "^0.19.0",
